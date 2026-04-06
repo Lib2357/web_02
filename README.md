@@ -1,4 +1,10 @@
-# TBWEB2 - Filament Admin
+# Filament Admin
+
+Họ và tên: Phạm Nguyễn Hưng
+
+MSV: 23810310276
+
+Lớp: D18CNPM2
 
 Phan he admin cho bai tap quan ly danh muc va san pham voi MSSV `23810310276`.
 
