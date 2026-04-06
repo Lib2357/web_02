@@ -1,4 +1,10 @@
-# TBWEB2 - Filament Admin
+# Filament Admin
+
+Ho va ten: Pham Nguyen Hung
+
+MSV: 23810310276
+
+Lop: D18CNPM2
 
 Phan he admin cho bai tap quan ly danh muc va san pham voi MSSV `23810310276`.
 
